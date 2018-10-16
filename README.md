@@ -1,7 +1,7 @@
 # 1071-207410472
 
 # Week 1
- [intro](file:///D:/1071-207410472/w01/intro.html).
+*intro.htm
 
 Week 2
 *table.html
@@ -15,6 +15,6 @@ Week 4
 * ttt.html, ttt.css
 * blog.html, blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDQzMjQ3OCwzNTExNTA4MjIsLTc2MD
-cxNTQ0MCwxOTIyNzc3MzIyXX0=
+eyJoaXN0b3J5IjpbNTMzOTAwNTI4LDM1MTE1MDgyMiwtNzYwNz
+E1NDQwLDE5MjI3NzczMjJdfQ==
 -->
