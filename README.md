@@ -1,7 +1,7 @@
 # 1071-207410472
 
 # Week 1
-*intro.htm]
+* [intro.htm](https://github.com/meteornou/1071-207410472/blob/master/intro.html)
 
 Week 2
 *table.html
@@ -15,6 +15,6 @@ Week 4
 * ttt.html, ttt.css
 * blog.html, blog.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzE4Njk4MSw1MzM5MDA1MjgsMzUxMT
+eyJoaXN0b3J5IjpbLTk0MTk4ODM5OCw1MzM5MDA1MjgsMzUxMT
 UwODIyLC03NjA3MTU0NDAsMTkyMjc3NzMyMl19
 -->
